@@ -15,9 +15,11 @@
 
 O objetivo do trabalho é projetar e implementar uma biblioteca para manipular grafos não direcionados ponderados. As ponderações são valores reais que devem estar associados às arestas do grafo. A biblioteca deve ser capaz de representar grafos não direcionados ponderados e de fornecer um conjunto de algoritmos em grafos. Deve-se projetar e desenvolver a biblioteca de forma que ela possa ser facilmente utilizada em outros programas.
 
-<p align="center">
-  <img width="400" height="400" alt="Backtracking" src="https://user-images.githubusercontent.com/81054281/161362835-609372f2-1380-4bb9-a323-4e1f91d81706.png">
-</p>
+
+<div align="center">
+   <img width="400" height="400" alt="Grafo" src="https://user-images.githubusercontent.com/81054281/161362835-609372f2-1380-4bb9-a323-4e1f91d81706.png">
+   <img width="300" height="400" alt="Entradas" src="https://user-images.githubusercontent.com/81054281/161362957-ee499087-a690-4aef-be48-06618f510ca4.png"/>
+</div>
 
 Entrada de dados: A biblioteca deve ser capaz de ler um grafo de um arquivo texto. O formato do grafo no arquivo será o seguinte: a primeira linha informa o número de vértices do grafo, cada linha subsequente informa as arestas com seu respectivo peso
 
@@ -28,11 +30,11 @@ Entrada de dados: A biblioteca deve ser capaz de ler um grafo de um arquivo text
 
 ## 🔨 Funcionalidades principais do projeto
 
-- Retornar a ordem do grafo
-- Retornar o tamanho do grafo
-- Retornar a densidade ε(G) do grafo
-- Retornar os vizinhos de um vértice fornecido
-- Determinar o grau de um vértice fornecido
+- Ordem do grafo
+- Tamanho do grafo
+- Densidade ε(G) do grafo
+- Os vizinhos de um vértice fornecido
+- Grau de um vértice fornecido
 - Verificar se um vértice é articulação
 - Determinar a sequência de vértices visitados na busca em largura e informar a(s) aresta(s) que não faz(em) parte da árvore de busca em largura.
 - Determinar o número de componentes conexas do grafo e os vértices de cada componente (Algoritmo de Roy)
