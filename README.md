@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" alt="Backtracking" src="https://user-images.githubusercontent.com/81054281/161360142-48b0d3ac-4f8d-492b-9784-c807cded6dac.png">
+  <img width="400" height="400" alt="Grafos" src="https://user-images.githubusercontent.com/81054281/161363268-19604be7-5b3b-46c3-b9cc-5144f96a75fc.png">
 </p>
 
 
